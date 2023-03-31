@@ -9,8 +9,9 @@
                 Console.WriteLine("헤더입니다");  // A#2
                 Console.WriteLine("회원가입");  // B#4
                 Console.WriteLine("관리자");  // B#6
-                Console.WriteLine("실수...");  // B#6
                 Console.WriteLine("about");  //A#8
+                Console.WriteLine("실수...");  // B#6
+                Console.WriteLine("실수....");  // B#6
             }
             Console.WriteLine("article");
             {
