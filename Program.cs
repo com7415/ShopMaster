@@ -12,10 +12,13 @@
             Console.WriteLine("article");
             {
                 Console.WriteLine("본문입니다");  // A#3
+                Console.WriteLine("기사1");  // A#5
+                Console.WriteLine("기사2");  // A#6
+
             }
             Console.WriteLine("footer");
             {
-                Console.WriteLine("푸터입니다");  // A#4
+                Console.WriteLine("푸터입니다");  // A#3
             }
         }
     }
